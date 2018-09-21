@@ -1,8 +1,10 @@
 {
   "name": "create-private",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Init a private package.json without any prompts",
-  "keywords": [ "npm init" ],
+  "keywords": [
+    "npm init"
+  ],
   "license": "BSD-2-Clause",
   "author": "Shane Holloway <shane.holloway@ieee.org>",
   "homepage": "https://github.com/shanewholloway/npm-create-private#readme",
