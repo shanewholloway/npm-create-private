@@ -1,6 +1,6 @@
 {
   "name": "create-private",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Init a private package.json without any prompts",
   "keywords": [
     "npm init"
